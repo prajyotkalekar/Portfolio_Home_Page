@@ -36,6 +36,6 @@ const typed = new Typed('.multiple', {
     strings:['Computer Engineer...','Front-End Developer...','SQL Developer...'],
     typeSpeed: 60,
     backSpeed: 60,
-    backDelay: 1000,
+    backDelay: 800,
     loop: true
 });
